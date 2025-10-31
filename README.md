@@ -1,6 +1,6 @@
 
 
-# 🧠 CS50-AI – CS50 Artificial Intelligence Projects by Parmis Vosoughi Nezhad
+#  CS50-AI – CS50 Artificial Intelligence Projects by Parmis Vosoughi Nezhad
 
 This repository contains my personal journey through Harvard's CS50 AI course — a hands-on introduction to the foundational concepts of Artificial Intelligence using Python. Each folder documents weekly projects, challenges, and reflections as I explore search algorithms, knowledge representation, machine learning, and natural language processing.
 
