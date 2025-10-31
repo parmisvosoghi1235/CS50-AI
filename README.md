@@ -92,6 +92,4 @@ python project.py
 
 
 
----
 
-Would you like me to help you format this directly into your repo’s README file or create a bilingual version with Persian alongside the English?
