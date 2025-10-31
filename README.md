@@ -1,6 +1,4 @@
-Here’s a customized English README for your CS50-AI GitHub repository, modeled exactly after your CS50P repo structure but tailored to the Artificial Intelligence course:
 
----
 
 # 🧠 CS50-AI – CS50 Artificial Intelligence Projects by Parmis Vosoughi Nezhad
 
