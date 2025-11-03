@@ -261,3 +261,5 @@ def model_check(knowledge, query):
 
     # Check that knowledge entails query
     return check_all(knowledge, query, symbols, dict())
+        #Parmis-Vosoughi
+
